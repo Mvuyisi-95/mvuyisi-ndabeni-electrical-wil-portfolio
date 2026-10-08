@@ -30,7 +30,6 @@ Walter Sisulu University (WSU)
 
 Completed: June 2023
 
-Student Number: 216087201
 
 My National Diploma in Mechanical Engineering provided me with a foundation in engineering principles, mechanical systems, machinery, technical problem-solving, and engineering practice.
 
@@ -200,15 +199,8 @@ References
 
 Miss Maureen
 Supervisor – Coca-Cola
-
-Contact: 073 106 6099
-
 Mr. Lungisa
 In-Service Training Mentor; T & K Engineering
 
-Contact: 078 382 2310
-
 Miss Tjabadi
 Facilitator: EASTC Technocentric Varsity
-
-Contact: 060 986 2603
